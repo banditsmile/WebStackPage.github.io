@@ -53,43 +53,34 @@
     "sub_menu": []
   },
   {
-    "href": "#社区资讯",
+    "href": "#网络工具",
     "i_class": "linecons-doc",
-    "title": "社区资讯",
+    "title": "网络工具",
     "pages": [
       {
-        "url": "https://www.leiphone.com/",
-        "original_title": "https://www.leiphone.com/",
+        "url": "https://ping.pe/",
+        "original_title": "https://ping.pe/",
         "img": "../assets/images/logos/leiphone.png",
-        "comment": "人工智能和智能硬件领域的互联网科技媒体",
-        "name": "雷锋网",
+        "comment": "ping.pe community",
+        "name": "ping.ce",
         "toggle": "tooltip",
         "placement": "bottom"
       },
       {
-        "url": "http://36kr.com/",
-        "original_title": "http://36kr.com/",
+        "url": "https://ping.sx/",
+        "original_title": "https://ping.sx/",
         "img": "../assets/images/logos/36kr.png",
-        "comment": "创业资讯、科技新闻",
-        "name": "36kr",
+        "comment": "Ping.Sx is a free service built by Clonoth OÜ and Misaka Network",
+        "name": "ping.sx",
         "toggle": "tooltip",
         "placement": "bottom"
       },
       {
-        "url": "https://www.digitaling.com/",
-        "original_title": "https://www.digitaling.com/",
+        "url": "https://yabs.sh",
+        "original_title": "https://yabs.sh",
         "img": "../assets/images/logos/digitaling.png",
-        "comment": "数字媒体及职业招聘网站",
-        "name": "数英网",
-        "toggle": "tooltip",
-        "placement": "bottom"
-      },
-      {
-        "url": "http://www.lieyunwang.com/",
-        "original_title": "http://www.lieyunwang.com/",
-        "img": "../assets/images/logos/lieyunwang.png",
-        "comment": "互联网创业项目推荐和创业创新资讯",
-        "name": "猎云网",
+        "comment": "YABS - a simple bash script to estimate Linux server performance using fio, iperf3, & Geekbench",
+        "name": "yabs.sh",
         "toggle": "tooltip",
         "placement": "bottom"
       }
