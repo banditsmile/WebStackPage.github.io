@@ -10,7 +10,7 @@ QQ群交流：304584722 ; QQ交流群2：740911918
 
 注意⚠️：以下webstack所有项目均为开源项目，webstack没有任何Pro版本或专业版本！
 
-![](http://www.webstack.cc/assets/images/preview.gif)
+![](http://n.matlab.run/assets/images/preview.gif)
 
 这是一个开源的公益项目，你可以拿来制作自己的网址导航，也可以做与导航无关的网站。如果你有任何疑问，可以通过个人网站[viggoz.com](https://www.viggoz.com)中的联系方式找到我，欢迎与我交流分享。
 
@@ -25,7 +25,7 @@ QQ群交流：304584722 ; QQ交流群2：740911918
 ---
 |Q群(304584722)|Q群2(740911918)|
 |--|--|
-|![](http://www.webstack.cc/assets/images/qqgroup_webstack.jpg)|![](http://www.webstack.cc/assets/images/qqgroup_webstack2.jpg)|
+|![](http://n.matlab.run/assets/images/qqgroup_webstack.jpg)|![](http://n.matlab.run/assets/images/qqgroup_webstack2.jpg)|
 
 怎么用?
 ---
@@ -184,7 +184,7 @@ Copyright © 2017-2023 **[webstack.cc](https://webstack.cc)** Released under the
 
 Screenshot 📷
 ---
-![](http://www.webstack.cc/assets/images/webstack_banner_cn.png)
+![](http://n.matlab.run/assets/images/webstack_banner_cn.png)
 ![](http://7xnb6x.com1.z0.glb.clouddn.com/webstack-03-Introduction.png)
 ![](http://7xnb6x.com1.z0.glb.clouddn.com/webstack-04-infomation.png)
 ![](http://7xnb6x.com1.z0.glb.clouddn.com/webstack-05-production.png)
