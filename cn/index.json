@@ -5,11 +5,11 @@
     "title": "常用推荐",
     "pages": [
       {
-        "url": "https://dribbble.com/",
-        "original_title": "https://dribbble.com/",
+        "url": "https://next.matlab.run/#/",
+        "original_title": "https://next.matlab.run/#/",
         "img": "../assets/images/logos/dribbble.png",
-        "comment": "全球UI设计师作品分享平台。",
-        "name": "Dribbble",
+        "comment": "next-web",
+        "name": "next-web",
         "toggle": "tooltip",
         "placement": "bottom"
       },
