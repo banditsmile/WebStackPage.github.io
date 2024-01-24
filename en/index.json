@@ -160,6 +160,24 @@
             "name": "Fly.io",
             "toggle": "tooltip",
             "placement": "bottom"
+          },
+          {
+            "url": "https://www.gitpod.io/",
+            "original_title": "https://www.gitpod.io/",
+            "img": "../assets/images/logos/digitaling.png",
+            "comment": "Ship software faster with cloud development environments.",
+            "name": "gitpod.io",
+            "toggle": "tooltip",
+            "placement": "bottom"
+          },
+          {
+            "url": "https://www.doprax.com/",
+            "original_title": "https://www.doprax.com/",
+            "img": "../assets/images/logos/digitaling.png",
+            "comment": "Ship software faster with cloud development environments.",
+            "name": "doprax",
+            "toggle": "tooltip",
+            "placement": "bottom"
           }
         ],
         "sub_menu": []
