@@ -83,6 +83,15 @@
         "name": "yabs.sh",
         "toggle": "tooltip",
         "placement": "bottom"
+      },
+      {
+        "url": "https://github.com/XIU2/CloudflareSpeedTest",
+        "original_title": "https://github.com/XIU2/CloudflareSpeedTest",
+        "img": "../assets/images/logos/digitaling.png",
+        "comment": "cloudflare IP 测速工具，寻找离你最快的ip，解决自动解析ip网络缓慢的问题",
+        "name": "CloudflareSpeedTest",
+        "toggle": "tooltip",
+        "placement": "bottom"
       }
     ],
     "sub_menu": []
@@ -90,46 +99,37 @@
   {
     "href": "",
     "i_class": "linecons-lightbulb",
-    "title": "灵感采集",
+    "title": "AI推荐",
     "pages": [],
     "sub_menu": [
       {
-        "href": "#发现产品",
-        "title": "发现产品",
+        "href": "#文本AI",
+        "title": "文本AI",
         "pages": [
           {
-            "url": "https://www.producthunt.com/",
-            "original_title": "https://www.producthunt.com/",
+            "url": "https://bard.google.com/chat",
+            "original_title": "https://bard.google.com/chat",
             "img": "../assets/images/logos/producthunt.png",
-            "comment": "发现新鲜有趣的产品",
-            "name": "Producthunt",
+            "comment": "google bard",
+            "name": "google bard",
             "toggle": "tooltip",
             "placement": "bottom"
           },
           {
-            "url": "http://next.36kr.com/posts",
-            "original_title": "http://next.36kr.com/posts",
+            "url": "https://next.matlab.run/#/chat",
+            "original_title": "https://next.matlab.run/#/chat",
             "img": "../assets/images/logos/NEXT.png",
-            "comment": "不错过任何一个新产品",
-            "name": "NEXT",
+            "comment": "next web",
+            "name": "next web",
             "toggle": "tooltip",
             "placement": "bottom"
           },
           {
-            "url": "https://sspai.com/",
-            "original_title": "https://sspai.com/",
-            "img": "../assets/images/logos/sspai.png",
-            "comment": "高品质数字消费指南",
-            "name": "少数派",
-            "toggle": "tooltip",
-            "placement": "bottom"
-          },
-          {
-            "url": "http://liqi.io/",
-            "original_title": "http://liqi.io/",
-            "img": "../assets/images/logos/liqi.png",
-            "comment": "创造者和他们的工具",
-            "name": "利器",
+            "url": "https://copilot.microsoft.com/?ref=oc&action=lead",
+            "original_title": "https://copilot.microsoft.com/?ref=oc&action=lead",
+            "img": "../assets/images/logos/NEXT.png",
+            "comment": "bing copilot,中国地区被屏蔽",
+            "name": "bing copilot",
             "toggle": "tooltip",
             "placement": "bottom"
           }
