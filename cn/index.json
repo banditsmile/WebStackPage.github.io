@@ -97,6 +97,40 @@
     "sub_menu": []
   },
   {
+    "href": "#本地工具",
+    "i_class": "linecons-doc",
+    "title": "本地工具",
+    "pages": [
+      {
+        "url": "https://router.asus.com:8443/",
+        "original_title": "https://router.asus.com:8443/",
+        "img": "../assets/images/logos/leiphone.png",
+        "comment": "路由器",
+        "name": "路由器",
+        "toggle": "tooltip",
+        "placement": "bottom"
+      },{
+        "url": "http://192.168.50.152:5000/",
+        "original_title": "http://192.168.50.152:5000/",
+        "img": "../assets/images/logos/leiphone.png",
+        "comment": "群晖NAS",
+        "name": "群晖NAS",
+        "toggle": "tooltip",
+        "placement": "bottom"
+      },
+      {
+        "url": "http://192.168.50.152:3000/",
+        "original_title": "http://192.168.50.152:3000/",
+        "img": "../assets/images/logos/36kr.png",
+        "comment": "adguard home, 带有广告过滤功能的本地dns",
+        "name": "adguardhome",
+        "toggle": "tooltip",
+        "placement": "bottom"
+      }
+    ],
+    "sub_menu": []
+  },
+  {
     "href": "",
     "i_class": "linecons-lightbulb",
     "title": "AI推荐",

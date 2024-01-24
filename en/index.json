@@ -53,43 +53,147 @@
     "sub_menu": []
   },
   {
-    "href": "#网络工具",
+    "href": "#开发工具",
     "i_class": "linecons-doc",
-    "title": "网络工具",
+    "title": "开发工具",
+    "pages": [],
+    "sub_menu": [
+      {
+        "href": "#网络工具",
+        "i_class": "linecons-doc",
+        "title": "网络工具",
+        "pages": [
+          {
+            "url": "https://ping.pe/",
+            "original_title": "https://ping.pe/",
+            "img": "../assets/images/logos/leiphone.png",
+            "comment": "ping.pe community",
+            "name": "ping.ce",
+            "toggle": "tooltip",
+            "placement": "bottom"
+          },
+          {
+            "url": "https://ping.sx/",
+            "original_title": "https://ping.sx/",
+            "img": "../assets/images/logos/36kr.png",
+            "comment": "Ping.Sx is a free service built by Clonoth OÜ and Misaka Network",
+            "name": "ping.sx",
+            "toggle": "tooltip",
+            "placement": "bottom"
+          },
+          {
+            "url": "https://yabs.sh",
+            "original_title": "https://yabs.sh",
+            "img": "../assets/images/logos/digitaling.png",
+            "comment": "YABS - a simple bash script to estimate Linux server performance using fio, iperf3, & Geekbench",
+            "name": "yabs.sh",
+            "toggle": "tooltip",
+            "placement": "bottom"
+          },
+          {
+            "url": "https://github.com/XIU2/CloudflareSpeedTest",
+            "original_title": "https://github.com/XIU2/CloudflareSpeedTest",
+            "img": "../assets/images/logos/digitaling.png",
+            "comment": "cloudflare IP 测速工具，寻找离你最快的ip，解决自动解析ip网络缓慢的问题",
+            "name": "CloudflareSpeedTest",
+            "toggle": "tooltip",
+            "placement": "bottom"
+          }
+        ],
+        "sub_menu": []
+      },
+      {
+        "href": "#部署工具",
+        "i_class": "linecons-doc",
+        "title": "部署工具",
+        "pages": [
+          {
+            "url": "https://zeabur.com/",
+            "original_title": "https://zeabur.com/docs",
+            "img": "../assets/images/logos/leiphone.png",
+            "comment": "免费部署serverless代码",
+            "name": "zeabur.com",
+            "toggle": "tooltip",
+            "placement": "bottom"
+          },
+          {
+            "url": "https://www.netlify.com/",
+            "original_title": "https://www.netlify.com/",
+            "img": "../assets/images/logos/36kr.png",
+            "comment": "Netlify is the modern development platform for Enterprises to realize the speed, agility and performance of a scalable, composable web architecture.",
+            "name": "netlify",
+            "toggle": "tooltip",
+            "placement": "bottom"
+          },
+          {
+            "url": "https://vercel.com/",
+            "original_title": "https://vercel.com/",
+            "img": "../assets/images/logos/digitaling.png",
+            "comment": "Vercel's Frontend Cloud provides the developer experience and infrastructure to build, scale, and secure a faster, more personalized Web",
+            "name": "vercel.com",
+            "toggle": "tooltip",
+            "placement": "bottom"
+          },
+          {
+            "url": "https://render.com/",
+            "original_title": "https://render.com/",
+            "img": "../assets/images/logos/digitaling.png",
+            "comment": "Build, deploy, and scale your apps with unparalleled ease – from your first user to your billionth.",
+            "name": "render",
+            "toggle": "tooltip",
+            "placement": "bottom"
+          },
+          {
+            "url": "https://www.koyeb.com/",
+            "original_title": "https://www.koyeb.com/",
+            "img": "../assets/images/logos/digitaling.png",
+            "comment": "Deploy to production, scale globally, in minutes",
+            "name": "koyeb",
+            "toggle": "tooltip",
+            "placement": "bottom"
+          },
+          {
+            "url": "https://fly.io/",
+            "original_title": "https://fly.io/",
+            "img": "../assets/images/logos/digitaling.png",
+            "comment": "Launch Apps Near Users",
+            "name": "Fly.io",
+            "toggle": "tooltip",
+            "placement": "bottom"
+          }
+        ],
+        "sub_menu": []
+      }
+    ]
+  },
+  {
+    "href": "#本地工具",
+    "i_class": "linecons-doc",
+    "title": "本地工具",
     "pages": [
       {
-        "url": "https://ping.pe/",
-        "original_title": "https://ping.pe/",
+        "url": "https://router.asus.com:8443/",
+        "original_title": "https://router.asus.com:8443/",
         "img": "../assets/images/logos/leiphone.png",
-        "comment": "ping.pe community",
-        "name": "ping.ce",
+        "comment": "路由器",
+        "name": "路由器",
+        "toggle": "tooltip",
+        "placement": "bottom"
+      },{
+        "url": "http://192.168.50.152:5000/",
+        "original_title": "http://192.168.50.152:5000/",
+        "img": "../assets/images/logos/leiphone.png",
+        "comment": "群晖NAS",
+        "name": "群晖NAS",
         "toggle": "tooltip",
         "placement": "bottom"
       },
       {
-        "url": "https://ping.sx/",
-        "original_title": "https://ping.sx/",
+        "url": "http://192.168.50.152:3000/",
+        "original_title": "http://192.168.50.152:3000/",
         "img": "../assets/images/logos/36kr.png",
-        "comment": "Ping.Sx is a free service built by Clonoth OÜ and Misaka Network",
-        "name": "ping.sx",
-        "toggle": "tooltip",
-        "placement": "bottom"
-      },
-      {
-        "url": "https://yabs.sh",
-        "original_title": "https://yabs.sh",
-        "img": "../assets/images/logos/digitaling.png",
-        "comment": "YABS - a simple bash script to estimate Linux server performance using fio, iperf3, & Geekbench",
-        "name": "yabs.sh",
-        "toggle": "tooltip",
-        "placement": "bottom"
-      },
-      {
-        "url": "https://github.com/XIU2/CloudflareSpeedTest",
-        "original_title": "https://github.com/XIU2/CloudflareSpeedTest",
-        "img": "../assets/images/logos/digitaling.png",
-        "comment": "cloudflare IP 测速工具，寻找离你最快的ip，解决自动解析ip网络缓慢的问题",
-        "name": "CloudflareSpeedTest",
+        "comment": "adguard home, 带有广告过滤功能的本地dns",
+        "name": "adguardhome",
         "toggle": "tooltip",
         "placement": "bottom"
       }
