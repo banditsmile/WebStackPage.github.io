@@ -256,8 +256,8 @@
             "placement": "bottom"
           },
           {
-            "url": "https://makersuite.google.com/app/prompts/new_freeform",
-            "original_title": "https://makersuite.google.com/app/prompts/new_freeform",
+            "url": "https://console.cloud.google.com/vertex-ai?project=translate-406913",
+            "original_title": "https://console.cloud.google.com/vertex-ai?project=translate-406913",
             "img": "../assets/images/logos/NEXT.png",
             "comment": "google AI studio,可以自己训练AI",
             "name": "google AI studio",
