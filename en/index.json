@@ -254,6 +254,15 @@
             "name": "bing copilot",
             "toggle": "tooltip",
             "placement": "bottom"
+          },
+          {
+            "url": "https://makersuite.google.com/app/prompts/new_freeform",
+            "original_title": "https://makersuite.google.com/app/prompts/new_freeform",
+            "img": "../assets/images/logos/NEXT.png",
+            "comment": "google AI studio,可以自己训练AI",
+            "name": "google AI studio",
+            "toggle": "tooltip",
+            "placement": "bottom"
           }
         ],
         "sub_menu": []
