@@ -116,6 +116,15 @@
             "name": "iplocation",
             "toggle": "tooltip",
             "placement": "bottom"
+          },
+          {
+            "url": "https://www.cdnplanet.com/",
+            "original_title": "https://www.cdnplanet.com/",
+            "img": "../assets/images/logos/digitaling.png",
+            "comment": "Facts, figures, opinion and tools to help you select the right CDN.",
+            "name": "cdnplanet",
+            "toggle": "cdnplanet",
+            "placement": "bottom"
           }
         ],
         "sub_menu": []
