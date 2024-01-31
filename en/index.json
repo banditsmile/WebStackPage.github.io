@@ -98,6 +98,41 @@
             "name": "CloudflareSpeedTest",
             "toggle": "tooltip",
             "placement": "bottom"
+          },
+          {
+            "url": "https://speed.cloudflare.com/",
+            "original_title": "https://speed.cloudflare.com/",
+            "img": "../assets/images/logos/digitaling.png",
+            "comment": "cloudflare网络测速工具",
+            "name": "CloudflareSpeedTest",
+            "toggle": "tooltip",
+            "placement": "bottom"
+          },
+          {
+            "url": "https://iplocation.io/",
+            "original_title": "https://iplocation.io/",
+            "img": "../assets/images/logos/digitaling.png",
+            "comment": "IP Location Lookup tool provides free location tracking of an entered IP Address. It instantly tracks the IP's city, country, latitude, and longitude data through various Geo IP Databases.",
+            "name": "iplocation",
+            "toggle": "tooltip",
+            "placement": "bottom"
+          }
+        ],
+        "sub_menu": []
+      },
+      {
+        "href": "#DNS",
+        "i_class": "linecons-doc",
+        "title": "DNS tools",
+        "pages": [
+          {
+            "url": "https://dnschecker.org/",
+            "original_title": "https://dnschecker.org/",
+            "img": "../assets/images/logos/leiphone.png",
+            "comment": "DNS Checker provides a free DNS propagation check service to check Domain Name System records against a selected list of DNS servers in multiple regions worldwide.",
+            "name": "DNS Checker",
+            "toggle": "tooltip",
+            "placement": "bottom"
           }
         ],
         "sub_menu": []
