@@ -125,6 +125,15 @@
             "name": "cdnplanet",
             "toggle": "cdnplanet",
             "placement": "bottom"
+          },
+          {
+            "url": "https://networksdb.io/",
+            "original_title": "https://networksdb.io/",
+            "img": "../assets/images/logos/digitaling.png",
+            "comment": "Our database contains information about the public IPv4 and IPv6 addresses, networks and domains owned by companies and organisations across the world along with city-level IP geolocation data and autonomous system information.",
+            "name": "networksdb",
+            "toggle": "networksdb",
+            "placement": "bottom"
           }
         ],
         "sub_menu": []
