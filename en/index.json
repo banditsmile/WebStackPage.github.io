@@ -23,9 +23,9 @@
         "placement": "bottom"
       },
       {
-        "url": "http://www.ui.cn/",
-        "original_title": "http://www.ui.cn/",
-        "img": "../assets/images/logos/uicn.png",
+        "url": "https://www.ui.cn/",
+        "original_title": "https://www.ui.cn/",
+        "img": "https://www.ui.cn/Public/img/favicon.ico",
         "comment": "图形交互与界面设计交流、作品展示、学习平台。",
         "name": "UI中国",
         "toggle": "tooltip",
@@ -34,7 +34,7 @@
       {
         "url": "http://www.zcool.com.cn/",
         "original_title": "http://www.zcool.com.cn/",
-        "img": "../assets/images/logos/zcool.png",
+        "img": "https://a5.behance.net/babc24473f1956ca8037f6d5aea6c49455259364/img/site/favicon.ico?cb=264615658",
         "comment": "中国人气设计师互动平台",
         "name": "站酷",
         "toggle": "tooltip",
