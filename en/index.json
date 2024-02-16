@@ -48,6 +48,15 @@
         "name": "站酷",
         "toggle": "tooltip",
         "placement": "bottom"
+      },
+      {
+        "url": "https://image.matlab.run/",
+        "original_title": "https://image.matlab.run/",
+        "img": "../assets/images/logos/zcool.png",
+        "comment": "image share",
+        "name": "image share",
+        "toggle": "tooltip",
+        "placement": "bottom"
       }
     ],
     "sub_menu": []
