@@ -132,7 +132,7 @@
             "img": "../assets/images/logos/digitaling.png",
             "comment": "Facts, figures, opinion and tools to help you select the right CDN.",
             "name": "cdnplanet",
-            "toggle": "cdnplanet",
+            "toggle": "tooltip",
             "placement": "bottom"
           },
           {
@@ -141,7 +141,7 @@
             "img": "../assets/images/logos/digitaling.png",
             "comment": "Our database contains information about the public IPv4 and IPv6 addresses, networks and domains owned by companies and organisations across the world along with city-level IP geolocation data and autonomous system information.",
             "name": "networksdb",
-            "toggle": "networksdb",
+            "toggle": "tooltip",
             "placement": "bottom"
           },
           {
@@ -150,7 +150,7 @@
             "img": "https://icon.horse/icon/web.matlab.run",
             "comment": "Web-Check is developed and maintained by Alicia Sykes.",
             "name": "Web Check",
-            "toggle": "Web Check",
+            "toggle": "tooltip",
             "placement": "bottom"
           }
         ],
@@ -532,6 +532,15 @@
             "img": "../assets/images/logos/iconarchive.png",
             "comment": "Search 590,912 free icons",
             "name": "Icon Archive",
+            "toggle": "tooltip",
+            "placement": "bottom"
+          },
+          {
+            "url": "https://icon.horse/",
+            "original_title": "https://icon.horse/",
+            "img": "../assets/images/logos/iconarchive.png",
+            "comment": "Get any site's favicon with Icon Horse",
+            "name": "Icon Horse",
             "toggle": "tooltip",
             "placement": "bottom"
           }
