@@ -32,18 +32,18 @@
         "placement": "bottom"
       },
       {
-        "url": "http://www.zcool.com.cn/",
-        "original_title": "http://www.zcool.com.cn/",
-        "img": "https://a5.behance.net/babc24473f1956ca8037f6d5aea6c49455259364/img/site/favicon.ico?cb=264615658",
+        "url": "https://www.zcool.com.cn/",
+        "original_title": "https://www.zcool.com.cn/",
+        "img": "../assets/images/logos/zcool.png",
         "comment": "中国人气设计师互动平台",
         "name": "站酷",
         "toggle": "tooltip",
         "placement": "bottom"
       },
       {
-        "url": "http://www.zcool.com.cn/",
-        "original_title": "http://www.zcool.com.cn/",
-        "img": "../assets/images/logos/zcool.png",
+        "url": "https://www.zcool.com.cn/",
+        "original_title": "https://www.zcool.com.cn/",
+        "img": "https://static.zcool.cn/git_z/z/site/favicon.ico?version=1618914637608",
         "comment": "中国人气设计师互动平台",
         "name": "站酷",
         "toggle": "tooltip",
@@ -142,6 +142,15 @@
             "comment": "Our database contains information about the public IPv4 and IPv6 addresses, networks and domains owned by companies and organisations across the world along with city-level IP geolocation data and autonomous system information.",
             "name": "networksdb",
             "toggle": "networksdb",
+            "placement": "bottom"
+          },
+          {
+            "url": "https://web.matlab.run/",
+            "original_title": "https://web.matlab.run/",
+            "img": "https://icon.horse/icon/web.matlab.run",
+            "comment": "Web-Check is developed and maintained by Alicia Sykes.",
+            "name": "Web Check",
+            "toggle": "Web Check",
             "placement": "bottom"
           }
         ],
@@ -260,8 +269,8 @@
         "toggle": "tooltip",
         "placement": "bottom"
       },{
-        "url": "http://192.168.50.152:5000/",
-        "original_title": "http://192.168.50.152:5000/",
+        "url": "https://192.168.50.152:5000/",
+        "original_title": "https://192.168.50.152:5000/",
         "img": "../assets/images/logos/leiphone.png",
         "comment": "群晖NAS",
         "name": "群晖NAS",
@@ -269,11 +278,29 @@
         "placement": "bottom"
       },
       {
-        "url": "http://192.168.50.152:3000/",
-        "original_title": "http://192.168.50.152:3000/",
+        "url": "https://192.168.50.152:3000/",
+        "original_title": "https://192.168.50.152:3000/",
         "img": "../assets/images/logos/36kr.png",
         "comment": "adguard home, 带有广告过滤功能的本地dns",
         "name": "adguardhome",
+        "toggle": "tooltip",
+        "placement": "bottom"
+      },
+      {
+        "url": "http://192.168.50.155:8080/",
+        "original_title": "http://192.168.50.155:8080/",
+        "img": "../assets/images/logos/36kr.png",
+        "comment": "superset",
+        "name": "superset",
+        "toggle": "tooltip",
+        "placement": "bottom"
+      },
+      {
+        "url": "http://192.168.50.155:8880/",
+        "original_title": "http://192.168.50.155:8880/",
+        "img": "../assets/images/logos/36kr.png",
+        "comment": "superset",
+        "name": "superset",
         "toggle": "tooltip",
         "placement": "bottom"
       }
@@ -323,6 +350,15 @@
             "img": "../assets/images/logos/NEXT.png",
             "comment": "google AI studio,可以自己训练AI",
             "name": "google AI studio",
+            "toggle": "tooltip",
+            "placement": "bottom"
+          },
+          {
+            "url": "https://moderatecontent.com/",
+            "original_title": "https://moderatecontent.com/",
+            "img": "https://moderatecontent.com/img/mdr8/favicon.png",
+            "comment": "Trusted across the internet to protect communities against offensive content.\nWith an API that couldn't be easier to integrate into your website, app or platform.",
+            "name": "Realtime Image Moderation API",
             "toggle": "tooltip",
             "placement": "bottom"
           }
@@ -379,8 +415,8 @@
             "placement": "bottom"
           },
           {
-            "url": "http://collectui.com/",
-            "original_title": "http://collectui.com/",
+            "url": "https://collectui.com/",
+            "original_title": "https://collectui.com/",
             "img": "../assets/images/logos/CollectUI.png",
             "comment": "Daily inspiration collected from daily ui archive and beyond.",
             "name": "Collect UI",
@@ -388,8 +424,8 @@
             "placement": "bottom"
           },
           {
-            "url": "http://ui.uigreat.com/",
-            "original_title": "http://ui.uigreat.com/",
+            "url": "https://ui.uigreat.com/",
+            "original_title": "https://ui.uigreat.com/",
             "img": "../assets/images/logos/uiuigreat.png",
             "comment": "APP界面截图参考",
             "name": "UI uigreat",
@@ -397,8 +433,8 @@
             "placement": "bottom"
           },
           {
-            "url": "http://androidniceties.tumblr.com/",
-            "original_title": "http://androidniceties.tumblr.com/",
+            "url": "https://androidniceties.tumblr.com/",
+            "original_title": "https://androidniceties.tumblr.com/",
             "img": "../assets/images/logos/AndroidNiceties.png",
             "comment": "A collection of screenshots encompassing some of the most beautiful looking Android apps.",
             "name": "Android Niceties",
@@ -440,8 +476,8 @@
             "placement": "bottom"
           },
           {
-            "url": "http://www.ecommercefolio.com/",
-            "original_title": "http://www.ecommercefolio.com/",
+            "url": "https://www.ecommercefolio.com/",
+            "original_title": "https://www.ecommercefolio.com/",
             "img": "../assets/images/logos/Ecommercefolio.png",
             "comment": "Only the Best Ecommerce Design Inspiration",
             "name": "Ecommercefolio",
@@ -473,8 +509,8 @@
             "placement": "bottom"
           },
           {
-            "url": "http://www.iconfont.cn/",
-            "original_title": "http://www.iconfont.cn/",
+            "url": "https://www.iconfont.cn/",
+            "original_title": "https://www.iconfont.cn/",
             "img": "../assets/images/logos/iconfont.png",
             "comment": "阿里巴巴矢量图标库",
             "name": "iconfont",
@@ -491,8 +527,8 @@
             "placement": "bottom"
           },
           {
-            "url": "http://www.iconarchive.com/",
-            "original_title": "http://www.iconarchive.com/",
+            "url": "https://www.iconarchive.com/",
+            "original_title": "https://www.iconarchive.com/",
             "img": "../assets/images/logos/iconarchive.png",
             "comment": "Search 590,912 free icons",
             "name": "Icon Archive",
@@ -507,8 +543,8 @@
         "title": "LOGO设计",
         "pages": [
           {
-            "url": "http://www.iconsfeed.com/",
-            "original_title": "http://www.iconsfeed.com/",
+            "url": "https://www.iconsfeed.com/",
+            "original_title": "https://www.iconsfeed.com/",
             "img": "../assets/images/logos/iconsfeed.png",
             "comment": "iOS icons gallery",
             "name": "Iconsfeed",
@@ -516,8 +552,8 @@
             "placement": "bottom"
           },
           {
-            "url": "http://iosicongallery.com/",
-            "original_title": "http://iosicongallery.com/",
+            "url": "https://iosicongallery.com/",
+            "original_title": "https://iosicongallery.com/",
             "img": "../assets/images/logos/iosicongallery.png",
             "comment": "Showcasing beautiful icon designs from the iOS App Store",
             "name": "iOS Icon Gallery",
@@ -534,8 +570,8 @@
             "placement": "bottom"
           },
           {
-            "url": "http://instantlogosearch.com/",
-            "original_title": "http://instantlogosearch.com/",
+            "url": "https://instantlogosearch.com/",
+            "original_title": "https://instantlogosearch.com/",
             "img": "../assets/images/logos/InstantLogoSearch.png",
             "comment": "Search & download thousands of logos instantly",
             "name": "Instant Logo Search",
@@ -645,8 +681,8 @@
             "placement": "bottom"
           },
           {
-            "url": "http://utom.design/measure/",
-            "original_title": "http://utom.design/measure/",
+            "url": "https://utom.design/measure/",
+            "original_title": "https://utom.design/measure/",
             "img": "../assets/images/logos/SketchMeasure.png",
             "comment": "Friendly user interface offers you a more intuitive way of making marks.",
             "name": "Sketch Measure",
@@ -663,8 +699,8 @@
             "placement": "bottom"
           },
           {
-            "url": "http://www.sketch.im/",
-            "original_title": "http://www.sketch.im/",
+            "url": "https://www.sketch.im/",
+            "original_title": "https://www.sketch.im/",
             "img": "../assets/images/logos/sketchIm.png",
             "comment": "Sketch 相关资源汇聚",
             "name": "Sketch.im",
@@ -706,8 +742,8 @@
             "placement": "bottom"
           },
           {
-            "url": "http://www.foundertype.com/",
-            "original_title": "http://www.foundertype.com/",
+            "url": "https://www.foundertype.com/",
+            "original_title": "https://www.foundertype.com/",
             "img": "../assets/images/logos/Fondertype.png",
             "comment": "方正字库官方网站",
             "name": "方正字库",
@@ -731,8 +767,8 @@
             "placement": "bottom"
           },
           {
-            "url": "http://dunnnk.com/",
-            "original_title": "http://dunnnk.com/",
+            "url": "https://dunnnk.com/",
+            "original_title": "https://dunnnk.com/",
             "img": "../assets/images/logos/Dunnnk.png",
             "comment": "Generate Product Mockups For Free",
             "name": "Dunnnk",
@@ -740,8 +776,8 @@
             "placement": "bottom"
           },
           {
-            "url": "http://www.graphberry.com/",
-            "original_title": "http://www.graphberry.com/",
+            "url": "https://www.graphberry.com/",
+            "original_title": "https://www.graphberry.com/",
             "img": "../assets/images/logos/graphberry.png",
             "comment": "Free design resources, Mockups, PSD web templates, Icons",
             "name": "Graphberry",
@@ -749,8 +785,8 @@
             "placement": "bottom"
           },
           {
-            "url": "http://threed.io/",
-            "original_title": "http://threed.io/",
+            "url": "https://threed.io/",
+            "original_title": "https://threed.io/",
             "img": "../assets/images/logos/threed.png",
             "comment": "Generate 3D Mockups right in your Browser",
             "name": "Threed",
@@ -808,8 +844,8 @@
         "title": "PPT资源",
         "pages": [
           {
-            "url": "http://www.officeplus.cn/Template/Home.shtml",
-            "original_title": "http://www.officeplus.cn/Template/Home.shtml",
+            "url": "https://www.officeplus.cn/Template/Home.shtml",
+            "original_title": "https://www.officeplus.cn/Template/Home.shtml",
             "img": "../assets/images/logos/officeplus.png",
             "comment": "OfficePLUS，微软Office官方在线模板网站！",
             "name": "OfficePLUS",
@@ -817,8 +853,8 @@
             "placement": "bottom"
           },
           {
-            "url": "http://www.ypppt.com/",
-            "original_title": "http://www.ypppt.com/",
+            "url": "https://www.ypppt.com/",
+            "original_title": "https://www.ypppt.com/",
             "img": "../assets/images/logos/ypppt.png",
             "comment": "高质量的模版，而且还有PPT图表，PPT背景图等资源",
             "name": "优品PPT",
@@ -826,8 +862,8 @@
             "placement": "bottom"
           },
           {
-            "url": "http://www.pptplus.cn/",
-            "original_title": "http://www.pptplus.cn/",
+            "url": "https://www.pptplus.cn/",
+            "original_title": "https://www.pptplus.cn/",
             "img": "../assets/images/logos/pptplus.png",
             "comment": "PPT加直播、录制和分享—PPT+语音内容分享平台",
             "name": "PPT+",
@@ -835,8 +871,8 @@
             "placement": "bottom"
           },
           {
-            "url": "http://www.pptmind.com/",
-            "original_title": "http://www.pptmind.com/",
+            "url": "https://www.pptmind.com/",
+            "original_title": "https://www.pptmind.com/",
             "img": "../assets/images/logos/pptmind.png",
             "comment": "分享高端ppt模板与keynote模板的数字作品交易平台",
             "name": "PPTMind",
@@ -886,8 +922,8 @@
             "placement": "bottom"
           },
           {
-            "url": "http://www.adobe.com/cn/products/indesign.html",
-            "original_title": "http://www.adobe.com/cn/products/indesign.html",
+            "url": "https://www.adobe.com/cn/products/indesign.html",
+            "original_title": "https://www.adobe.com/cn/products/indesign.html",
             "img": "../assets/images/logos/INDESIGN .png",
             "comment": "页面设计、布局和出版。",
             "name": "indesign",
@@ -911,8 +947,8 @@
             "placement": "bottom"
           },
           {
-            "url": "http://www.adobe.com/products/xd.html",
-            "original_title": "http://www.adobe.com/products/xd.html",
+            "url": "https://www.adobe.com/products/xd.html",
+            "original_title": "https://www.adobe.com/products/xd.html",
             "img": "../assets/images/logos/ADOBEXDCC.png",
             "comment": "Introducing Adobe XD. Design. Prototype. Experience.",
             "name": "Adobe XD",
@@ -954,8 +990,8 @@
             "placement": "bottom"
           },
           {
-            "url": "http://principleformac.com/",
-            "original_title": "http://principleformac.com/",
+            "url": "https://principleformac.com/",
+            "original_title": "https://principleformac.com/",
             "img": "../assets/images/logos/principle.png",
             "comment": "Animate Your Ideas, Design Better Apps",
             "name": "principle",
@@ -988,8 +1024,8 @@
         "title": "在线配色",
         "pages": [
           {
-            "url": "http://khroma.co/generator/",
-            "original_title": "http://khroma.co/generator/",
+            "url": "https://khroma.co/generator/",
+            "original_title": "https://khroma.co/generator/",
             "img": "../assets/images/logos/khroma.png",
             "comment": "Khroma is the fastest way to discover, search, and save color combos you'll want to use.",
             "name": "khroma",
@@ -1006,8 +1042,8 @@
             "placement": "bottom"
           },
           {
-            "url": "http://gradients.io/",
-            "original_title": "http://gradients.io/",
+            "url": "https://gradients.io/",
+            "original_title": "https://gradients.io/",
             "img": "../assets/images/logos/gradients.png",
             "comment": "Curated gradients for designers and developers",
             "name": "gradients",
@@ -1040,8 +1076,8 @@
             "placement": "bottom"
           },
           {
-            "url": "http://goqr.me/",
-            "original_title": "http://goqr.me/",
+            "url": "https://goqr.me/",
+            "original_title": "https://goqr.me/",
             "img": "../assets/images/logos/goqr.png",
             "comment": "create QR codes for free (Logo, T-Shirt, vCard, EPS)",
             "name": "goqr",
@@ -1058,8 +1094,8 @@
             "placement": "bottom"
           },
           {
-            "url": "http://inloop.github.io/shadow4android/",
-            "original_title": "http://inloop.github.io/shadow4android/",
+            "url": "https://inloop.github.io/shadow4android/",
+            "original_title": "https://inloop.github.io/shadow4android/",
             "img": "../assets/images/logos/Android9patch.png",
             "comment": "Android 9-patch shadow generator fully customizable shadows",
             "name": "Android 9 patch",
@@ -1083,8 +1119,8 @@
             "placement": "bottom"
           },
           {
-            "url": "http://usepanda.com/",
-            "original_title": "http://usepanda.com/",
+            "url": "https://usepanda.com/",
+            "original_title": "https://usepanda.com/",
             "img": "../assets/images/logos/usepanda.png",
             "comment": "A smart news reader built for productivity.",
             "name": "Panda",
@@ -1125,8 +1161,8 @@
         "title": "设计规范",
         "pages": [
           {
-            "url": "http://designguidelines.co/",
-            "original_title": "http://designguidelines.co/",
+            "url": "https://designguidelines.co/",
+            "original_title": "https://designguidelines.co/",
             "img": "../assets/images/logos/designguidelines.png",
             "comment": "Design Guidelines — The way products are built.",
             "name": "Design Guidelines",
@@ -1168,8 +1204,8 @@
         "title": "视频教程",
         "pages": [
           {
-            "url": "http://www.photoshoplady.com/",
-            "original_title": "http://www.photoshoplady.com/",
+            "url": "https://www.photoshoplady.com/",
+            "original_title": "https://www.photoshoplady.com/",
             "img": "../assets/images/logos/PhotoshopLady.png",
             "comment": "Your Favourite Photoshop Tutorials in One Place",
             "name": "Photoshop Lady",
@@ -1177,8 +1213,8 @@
             "placement": "bottom"
           },
           {
-            "url": "http://doyoudo.com/",
-            "original_title": "http://doyoudo.com/",
+            "url": "https://doyoudo.com/",
+            "original_title": "https://doyoudo.com/",
             "img": "../assets/images/logos/doyoudo.png",
             "comment": "创意设计软件学习平台",
             "name": "doyoudo",
@@ -1186,8 +1222,8 @@
             "placement": "bottom"
           },
           {
-            "url": "http://www.c945.com/web-ui-tutorial/",
-            "original_title": "http://www.c945.com/web-ui-tutorial/",
+            "url": "https://www.c945.com/web-ui-tutorial/",
+            "original_title": "https://www.c945.com/web-ui-tutorial/",
             "img": "../assets/images/logos/web_ui_tutorial.png",
             "comment": "WEB UI免费视频公开课",
             "name": "没位道",
@@ -1211,8 +1247,8 @@
         "title": "设计文章",
         "pages": [
           {
-            "url": "http://www.uisdc.com/",
-            "original_title": "http://www.uisdc.com/",
+            "url": "https://www.uisdc.com/",
+            "original_title": "https://www.uisdc.com/",
             "img": "../assets/images/logos/uisdc.png",
             "comment": "设计师交流学习平台",
             "name": "优设网",
@@ -1245,8 +1281,8 @@
         "title": "设计电台",
         "pages": [
           {
-            "url": "http://uxcoffee.co/",
-            "original_title": "http://uxcoffee.co/",
+            "url": "https://uxcoffee.co/",
+            "original_title": "https://uxcoffee.co/",
             "img": "../assets/images/logos/uxcoffee.png",
             "comment": "《UX Coffee 设计咖》是一档关于用户体验的播客节目。我们邀请来自硅谷和国内的学者和职人来聊聊「产品设计」、「用户体验」和「个人成长」。",
             "name": "UX Coffee",
@@ -1279,8 +1315,8 @@
         "title": "交互设计Hot",
         "pages": [
           {
-            "url": "http://littlebigdetails.com/",
-            "original_title": "http://littlebigdetails.com/",
+            "url": "https://littlebigdetails.com/",
+            "original_title": "https://littlebigdetails.com/",
             "img": "../assets/images/logos/littlebigdetails.png",
             "comment": "Little Big Details is a curated collection of the finer details of design, updated every day.",
             "name": "Little Big Details",
@@ -1306,8 +1342,8 @@
             "placement": "bottom"
           },
           {
-            "url": "http://boxesandarrows.com/",
-            "original_title": "http://boxesandarrows.com/",
+            "url": "https://boxesandarrows.com/",
+            "original_title": "https://boxesandarrows.com/",
             "img": "../assets/images/logos/boxesandarrows.png",
             "comment": "Boxes and Arrows is devoted to the practice, innovation, and discussion of design; including graphic design, interaction design, information architecture and the design of business.",
             "name": "Boxes and Arrows",
@@ -1334,8 +1370,8 @@
         "placement": "bottom"
       },
       {
-        "url": "http://facebook.design/",
-        "original_title": "http://facebook.design/",
+        "url": "https://facebook.design/",
+        "original_title": "https://facebook.design/",
         "img": "../assets/images/logos/FacebookDesign.png",
         "comment": "Facebook Design",
         "name": "Facebook Design",
@@ -1352,8 +1388,8 @@
         "placement": "bottom"
       },
       {
-        "url": "http://eicodesign.com/",
-        "original_title": "http://eicodesign.com/",
+        "url": "https://eicodesign.com/",
+        "original_title": "https://eicodesign.com/",
         "img": "../assets/images/logos/eico.png",
         "comment": "数字化咨询与产品专家",
         "name": "eico design",
