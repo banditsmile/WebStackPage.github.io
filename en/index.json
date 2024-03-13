@@ -303,6 +303,15 @@
         "name": "superset",
         "toggle": "tooltip",
         "placement": "bottom"
+      },
+      {
+        "url": "https://gold.zeabur.app/",
+        "original_title": "https://gold.zeabur.app/",
+        "img": "",
+        "comment": "Everything is RSSible",
+        "name": "RSSHub",
+        "toggle": "tooltip",
+        "placement": "bottom"
       }
     ],
     "sub_menu": []
