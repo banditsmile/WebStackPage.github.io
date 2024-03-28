@@ -249,6 +249,15 @@
             "name": "doprax",
             "toggle": "tooltip",
             "placement": "bottom"
+          },
+          {
+            "url": "https://heroku.com/home",
+            "original_title": "https://heroku.com/home",
+            "img": "https://heroku.com/home",
+            "comment": "",
+            "name": "heroku.com",
+            "toggle": "tooltip",
+            "placement": "bottom"
           }
         ],
         "sub_menu": []
@@ -312,6 +321,14 @@
         "name": "RSSHub",
         "toggle": "tooltip",
         "placement": "bottom"
+      },{
+        "url": "https://m.matlab.run/",
+        "original_title": "https://m.matlab.run/",
+        "img": "",
+        "comment": "哪吒监控面板",
+        "name": "哪吒监控面板",
+        "toggle": "tooltip",
+        "placement": "bottom"
       }
     ],
     "sub_menu": []
@@ -327,6 +344,22 @@
         "title": "国外大模型",
         "pages": [
           {
+            "url": "https://claude.ai/",
+            "original_title": "https://claude.ai/",
+            "img": "",
+            "comment": "claude",
+            "name": "claude",
+            "toggle": "tooltip",
+            "placement": "bottom"
+          },{
+            "url": "https://www.perplexity.ai/",
+            "original_title": "https://www.perplexity.ai/",
+            "img": "",
+            "comment": "perplexity",
+            "name": "perplexity",
+            "toggle": "tooltip",
+            "placement": "bottom"
+          },{
             "url": "https://bard.google.com/chat",
             "original_title": "https://bard.google.com/chat",
             "img": "../assets/images/logos/producthunt.png",
@@ -409,9 +442,9 @@
             "url": "https://yiyan.baidu.com/",
             "original_title": "https://yiyan.baidu.com/",
             "img": "",
-            "comment": "",
+            "comment": "百度一言",
 
-            "name": "",
+            "name": "百度一言",
             "toggle": "tooltip",
             "placement": "bottom"
           },
@@ -419,8 +452,26 @@
             "url": "https://www.baichuan-ai.com/chat",
             "original_title": "https://www.baichuan-ai.com/chat",
             "img": "",
-            "comment": "",
-            "name": "",
+            "comment": "百川大模型",
+            "name": "百川大模型",
+            "toggle": "tooltip",
+            "placement": "bottom"
+          },
+          {
+            "url": "https://xinghuo.xfyun.cn/",
+            "original_title": "https://xinghuo.xfyun.cn/",
+            "img": "",
+            "comment": "讯飞星火",
+            "name": "讯飞星火",
+            "toggle": "tooltip",
+            "placement": "bottom"
+          },
+          {
+            "url": "https://www.doubao.com/",
+            "original_title": "https://www.doubao.com/",
+            "img": "",
+            "comment": "抖音豆包",
+            "name": "抖音豆包",
             "toggle": "tooltip",
             "placement": "bottom"
           }

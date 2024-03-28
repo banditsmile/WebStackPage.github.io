@@ -12,40 +12,12 @@
         "name": "next-web",
         "toggle": "tooltip",
         "placement": "bottom"
-      },
-      {
-        "url": "https://behance.net/",
-        "original_title": "https://behance.net/",
-        "img": "../assets/images/logos/behance.png",
-        "comment": "Adobe旗下的设计师交流平台，来自世界各地的设计师在这里分享自己的作品。",
-        "name": "Behance",
-        "toggle": "tooltip",
-        "placement": "bottom"
-      },
-      {
-        "url": "http://www.ui.cn/",
-        "original_title": "http://www.ui.cn/",
-        "img": "../assets/images/logos/uicn.png",
-        "comment": "图形交互与界面设计交流、作品展示、学习平台。",
-        "name": "UI中国",
-        "toggle": "tooltip",
-        "placement": "bottom"
-      },
-      {
-        "url": "http://www.zcool.com.cn/",
-        "original_title": "http://www.zcool.com.cn/",
-        "img": "../assets/images/logos/zcool.png",
-        "comment": "中国人气设计师互动平台",
-        "name": "站酷",
-        "toggle": "tooltip",
-        "placement": "bottom"
-      },
-      {
-        "url": "http://www.zcool.com.cn/",
-        "original_title": "http://www.zcool.com.cn/",
-        "img": "../assets/images/logos/zcool.png",
-        "comment": "中国人气设计师互动平台",
-        "name": "站酷",
+      },{
+        "url": "https://m.matlab.run/",
+        "original_title": "https://m.matlab.run/",
+        "img": "",
+        "comment": "哪吒监控面板",
+        "name": "哪吒监控面板",
         "toggle": "tooltip",
         "placement": "bottom"
       }
